@@ -1,24 +1,34 @@
-👋 Hi, I'm Akash Samanta
+# 👋 Hi, I'm Akash Samanta
 
-🎓 BTech CSE (AIML) Student  
-💻 Currently Learning Data Structures & Algorithms  
+🎓 B.Tech Student in CSE (AI & ML)  
+💻 Learning Data Structures & Algorithms  
 🚀 Aspiring Machine Learning Engineer  
 📍 India  
 
 ---
 
-🧠 Skills
+## 🧠 Skills I'm Learning
 - C++
-- DSA Fundamentals
+- Data Structures & Algorithms
+- Python (Beginner)
 - Problem Solving
-- Basic Python
 
 ---
 
-📈 Current Goal
-Solve 300+ DSA problems and build strong fundamentals.
+## 📚 Current Focus
+- Solving DSA problems daily
+- Building coding discipline
+- Learning Machine Learning fundamentals
 
 ---
 
-🔗 Connect With Me
-LinkedIn: (https://www.linkedin.com/in/akash-samanta-a3331b371/)
+## 📈 2026 Goals
+- Solve 300+ DSA problems
+- Build 5 coding projects
+- Contribute to open source
+
+---
+
+## 🔗 Connect With Me
+LinkedIn: (https://www.linkedin.com/in/akash-samanta-a3331b371/)  
+GitHub: https://github.com/akashsamanta2569-a11y
