@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Akash Samanta
 
-<!--
-**akashsamanta2569-a11y/akashsamanta2569-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AIML) Student  
+💻 Currently Learning Data Structures & Algorithms  
+🚀 Aspiring Machine Learning Engineer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+- C++
+- DSA Fundamentals
+- Problem Solving
+- Basic Python
+
+---
+
+📈 Current Goal
+Solve 300+ DSA problems and build strong fundamentals.
+
+---
+
+🔗 Connect With Me
+LinkedIn: (https://www.linkedin.com/in/akash-samanta-a3331b371/)
